@@ -1,4 +1,4 @@
-# Duplicate Line Checker (`Dupe Check.py`)
+# Duplicate Line Checker (`Dupe_Check.py`)
 
 A Python desktop application built to help you easily identify, review, and manage duplicate lines in text and CSV files. The script provides an interactive GUI to visually step through duplicates rather than automatically deleting them, giving you full control over your data.
 
