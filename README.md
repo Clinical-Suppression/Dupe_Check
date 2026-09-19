@@ -41,7 +41,7 @@ pip install tkinterdnd2
 
 1. Run the script from your terminal:
 ```bash
-python "Dupe Check.py"
+python "Dupe_Check.py"
 
 ```
 
